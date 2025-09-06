@@ -4,7 +4,7 @@ This project follows Clean Architecture principles with SwiftUI and Combine.
 
 ## Demo
 
-https://github.com/user-attachments/assets/your-screen-recording-url
+https://github.com/user-attachments/assets/2591fc09-8c23-43dc-92ed-217b2b2bab33
 
 *Screen recording showing the complete workflow: image selection, clothing detection, item selection, cropping, and viewing cropped images.*
 
@@ -57,19 +57,23 @@ The project follows a 3-layer Clean Architecture pattern:
 ### Key Screenshots
 
 #### Main Detection Screen
-![Main Screen](screenshots/main-screen.png)
+![Main Screen](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 13 55 54" src="https://github.com/user-attachments/assets/cb73718a-ae14-43eb-807f-8389bf1aa816" />
+)
 *Main interface showing image selection and detection controls*
 
 #### Detection Results
-![Detection Results](screenshots/detection-results.png)
+![Detection Results](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 13 56 00" src="https://github.com/user-attachments/assets/1b373146-9c2c-4aec-b6ee-b7bc8fbabe7b" />
+)
 *Detected clothing items with color-coded bounding boxes*
 
 #### Cropped Images Gallery
-![Cropped Gallery](screenshots/cropped-gallery.png)
+![Cropped Gallery](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 13 56 08" src="https://github.com/user-attachments/assets/0ddc532d-8dca-4ef1-a118-3c7035cdbf32" />
+)
 *Gallery view of all cropped clothing items*
 
 #### Image Detail View
-![Detail View](screenshots/detail-view.png)
+![Detail View](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-06 at 13 56 15" src="https://github.com/user-attachments/assets/32178f9a-e430-4754-a777-bf497801f59f" />
+)
 *Detailed view of individual cropped items with metadata*
 
 ## Project Structure
