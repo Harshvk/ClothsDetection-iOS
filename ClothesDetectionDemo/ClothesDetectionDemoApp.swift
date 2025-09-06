@@ -1,10 +1,3 @@
-//
-//  ClothesDetectionDemoApp.swift
-//  ClothesDetectionDemo
-//
-//  Created by Harsh Vardhan Kushwaha on 06/07/25.
-//
-
 import SwiftUI
 
 @main
